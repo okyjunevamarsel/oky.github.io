@@ -1,0 +1,16 @@
+.jumbotron img{
+    width : 200px;
+}
+
+
+.col-sm-4{
+    padding-bottom: 20px;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
